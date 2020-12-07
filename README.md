@@ -1,1 +1,1 @@
-# Math_Quiz.com
+# Math Quiz.com
